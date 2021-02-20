@@ -1,6 +1,6 @@
 # uint128_t
 
-An unsigned 128 bit integer type for C++
+An unsigned 128 bit integer type for C++, now without exports in binary
 
 Copyright (c) 2013 - 2018 Jason Lee @ calccrypto at gmail.com
 
